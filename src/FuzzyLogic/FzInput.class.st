@@ -1,3 +1,6 @@
+"
+A fuzzy imput with a trapezoid area membership
+"
 Class {
 	#name : #FzInput,
 	#superclass : #FuzzyDomain,

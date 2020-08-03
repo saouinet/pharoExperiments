@@ -1,3 +1,6 @@
+"
+output to drive according to defuzzification
+"
 Class {
 	#name : #FzOutput,
 	#superclass : #FuzzyDomain,

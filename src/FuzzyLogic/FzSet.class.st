@@ -17,11 +17,6 @@ FzSet >> initialize [
 	
 ]
 
-{ #category : #'as yet unclassified' }
-FzSet >> membership: input [
-	^ 1.
-]
-
 { #category : #accessing }
 FzSet >> trapezoid [
  ^trapezoid 

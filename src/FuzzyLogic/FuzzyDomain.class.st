@@ -10,7 +10,7 @@ Class {
 
 { #category : #accessing }
 FuzzyDomain >> domain: table [
- nil
+ domain := table
 ]
 
 { #category : #initialization }
